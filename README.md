@@ -31,3 +31,8 @@ When the user accesses the website, all charts will preload with the first test 
 ## Summary
 
 A user can now look at the different samples collected by test subject and evaluate the usefulness of their bacteria.
+
+## Enhancements
+- An image was added in the jumbotron.
+- A background color of tan was added.
+- A navigator pane was added at the top of the page.
